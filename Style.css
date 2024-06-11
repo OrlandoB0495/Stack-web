@@ -29,6 +29,8 @@ body {
     border-radius: 5px;
 }
 .button-container {
+    display: flex;
+    justify-content: center;
     align-items: center;
     margin-top: 5px;
     margin-bottom: 10px;
